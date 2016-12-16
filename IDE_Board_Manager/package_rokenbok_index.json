@@ -17,10 +17,10 @@
           "help": {
             "online": "https://rokenbokeducation.org/contact"
           },
-          "url": "https://github.com/rokenbok/Arduino_Boards/raw/master/IDE_Board_Manager/",
-          "archiveFileName": "",
-          "checksum": "SHA-256:",
-          "size": "",
+          "url": "https://github.com/rokenbok/Arduino_Boards/raw/master/IDE_Board_Manager/rokenbokboards.1.0.0.tar.bz2",
+          "archiveFileName": "rokenbokboards.1.0.0.tar.bz2",
+          "checksum": "SHA-256:b783a497293ba17146ca8f7948d6dc54d6722f7afb3f20bd020610ef8701caf4",
+          "size": "29864",
           "boards": [
             {"name": "ROKduino"}
           ],
